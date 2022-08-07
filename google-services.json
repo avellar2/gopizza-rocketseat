@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267379173265",
+    "project_id": "gopizza-avellar-4a1ed",
+    "storage_bucket": "gopizza-avellar-4a1ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267379173265:android:66467163f12ebaff67dc30",
+        "android_client_info": {
+          "package_name": "com.gopizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267379173265-g09ecedsn6hm7rdk4egqgq4eq0f9n08t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOP3BQ0dYWJFiXrDmem7nKVo6rp1bH0E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267379173265-g09ecedsn6hm7rdk4egqgq4eq0f9n08t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
